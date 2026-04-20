@@ -1,4 +1,4 @@
-// composables/useProductoForm.ts
+
 import { ref } from 'vue'
 import type { Product } from '@/types/listaproductos'
 import { usarProductos } from '@/composables/useProduct'
