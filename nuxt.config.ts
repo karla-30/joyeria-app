@@ -10,7 +10,7 @@ export default defineNuxtConfig({
   preference: 'light'
 },
  nitro: {
-    preset: 'netlify'
+    preset: 'static'
   }
 
 })
