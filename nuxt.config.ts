@@ -8,6 +8,9 @@ export default defineNuxtConfig({
      colorMode: {
   fallback: 'light',
   preference: 'light'
-}
+},
+ nitro: {
+    preset: 'netlify'
+  }
 
 })
